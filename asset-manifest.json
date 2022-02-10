@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/scrimba_react_businesscard/static/css/main.5157b789.css",
-    "main.js": "/scrimba_react_businesscard/static/js/main.9b5b349b.js",
+    "main.js": "/scrimba_react_businesscard/static/js/main.2866ea1b.js",
     "static/media/me.jpg": "/scrimba_react_businesscard/static/media/me.f649183651248f075450.jpg",
     "index.html": "/scrimba_react_businesscard/index.html",
     "main.5157b789.css.map": "/scrimba_react_businesscard/static/css/main.5157b789.css.map",
-    "main.9b5b349b.js.map": "/scrimba_react_businesscard/static/js/main.9b5b349b.js.map"
+    "main.2866ea1b.js.map": "/scrimba_react_businesscard/static/js/main.2866ea1b.js.map"
   },
   "entrypoints": [
     "static/css/main.5157b789.css",
-    "static/js/main.9b5b349b.js"
+    "static/js/main.2866ea1b.js"
   ]
 }
